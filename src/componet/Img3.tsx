@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import rating from './icons/Ratings.svg'
 import img3 from './images/img 3.svg'
 import img3b from './images/img 11.svg'

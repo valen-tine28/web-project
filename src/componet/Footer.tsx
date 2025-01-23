@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import { FacebookIcon, Globe, InstagramIcon, TwitterIcon } from 'lucide-react'
 import eroup from './icons/£.svg'
 

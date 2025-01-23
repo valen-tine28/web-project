@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import view from '../componet/icons/amazingviews.svg'
 import cabins from '../componet/icons/cabins.svg'
 import beachfront from '../componet/icons/beachfront.svg'

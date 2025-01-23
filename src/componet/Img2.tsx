@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import img2 from './images/img 2.svg'
 import imgb from './images/img 10.svg'
 import img2c from './images/img 13.svg'

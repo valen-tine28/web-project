@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import logo from '../componet/icons/Frame 1.svg'
 import end from '../componet/icons/Frame 625781.svg'
 

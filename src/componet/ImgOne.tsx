@@ -1,4 +1,4 @@
-import React from 'react'
+// import React from 'react'
 import imga from '../componet/images/img 1.svg'
 import img1a from '../componet/images/img 8.svg'
 import imgb from '../componet/images/img 11.svg'
